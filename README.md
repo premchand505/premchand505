@@ -83,10 +83,26 @@
 ---
 
 
+---
 
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🎵 Music  
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)  
+ 
+
+</div>
+
+---
+
+---
+
+<div align="center">  
+
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+
+</div>
 
 ---
 
