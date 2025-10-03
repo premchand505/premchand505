@@ -91,9 +91,10 @@
 
 ### 🎵 Music  
 
-[![Song](https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS?si=324d8b808c6c4709)
+[![Spotify Song](https://i.scdn.co/image/ab67616d0000b273d507b31a3d51c9b083a65f69)](https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS?si=324d8b808c6c4709)
 
 </div>
+
 
 ---
 
