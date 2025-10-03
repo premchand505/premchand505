@@ -1,6 +1,6 @@
 <!-- 🌊 Animated Gradient Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:364dcc,100:a4c7fd&height=250&section=header&text=Premchand%20Geddada&fontSize=46&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=🚀%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20💡&descSize=20&descAlign=50&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:364dcc,100:a4c7fd&height=250&section=header&text=Premchand%20Geddada&fontSize=46&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=🚀%20Full%20Stack%20Developer%20%7C%20AI%20Fanatic%20💡&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=a4c7fd&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Premchand+Geddada;💻+Full+Stack+Developer;🤖+AI/ML+%26+LLMs+Explorer;🚀+Building+Scalable+Robust+Apps;✨+Always+Learning+%7C+Always+Leveling+UP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=a4c7fd&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Premchand+Geddada;💻+Full+Stack+Developer;🤖+AI/ML+%26+Enthusiast;🚀+Building+Scalable+Robust+Apps;✨+Always+Learning+%7C+Always+Leveling+UP" />
 </p>
 
 <p align="center">
