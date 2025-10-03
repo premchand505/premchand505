@@ -87,8 +87,7 @@
 
 ### 🎵 Music  
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/playing?user=31fsaes23rqtfza4g2ydx2dijeom&theme=dark)](https://spotify-github-profile.vercel.app/api/playing?user=31fsaes23rqtfza4g2ydx2dijeom&redirect=true)
-</div>
+[![Spotify](https://spotify-now-playing-delta.vercel.app/api/spotify?user=31fsaes23rqtfza4g2ydx2dijeom&theme=dark)](https://open.spotify.com/user/31ck6iq6feas5afxwg6rd5lhbzde?si=b3ac6f5b75844fb4)
 
 
 ---
