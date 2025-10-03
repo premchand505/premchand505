@@ -87,8 +87,7 @@
 
 ### 🎵 Music  
 
-[![Listen on Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS)
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/playing?user=31fsaes23rqtfza4g2ydx2dijeom&theme=dark)](https://spotify-github-profile.vercel.app/api/playing?user=31fsaes23rqtfza4g2ydx2dijeom&redirect=true)
 </div>
 
 
