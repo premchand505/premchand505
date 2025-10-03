@@ -83,23 +83,14 @@
 ---
 
 
----
-
----
-
 <div align="center">
 
 ### 🎵 Music  
 
-[![Spotify Song](https://i.scdn.co/image/ab67616d0000b2738e7dbd3f6acded2273efb6a8)](https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS)
+[![Listen on Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS)
 
 </div>
 
-
-
----
-
----
 
 ---
 
@@ -110,7 +101,7 @@
 
 </div>
 
----
+
 
 
 ---
