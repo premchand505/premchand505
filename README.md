@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=light&perline=6" />
 
 **☁ Cloud & Deployment**  
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,gcp&theme=light&perline=6" />
 
 **🧰 Tools & Utilities**  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=light&perline=6" />
