@@ -34,7 +34,7 @@
 <div align="center">
 
 **💻 Languages & Scripting**  
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,bash&theme=light&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=light&perline=6" />
 
 **⚡ Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,nestjs,fastapi&theme=light&perline=7" />
